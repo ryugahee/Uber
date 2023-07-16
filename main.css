@@ -86,8 +86,8 @@ button {
 }
 
 .hero .wrapper .ut-slogan .ut-desc {
-  margin: 28px
-  font-size: 700px;
+  margin-top: 28px;
+  font-weight: 700px;
 }
 
 .hero .wrapper .ut-slogan .ut-app-download-btn {
@@ -98,4 +98,4 @@ button {
   align-items: center;
   background-color: black;
   color: white;
-} 
+}
